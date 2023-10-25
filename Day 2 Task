@@ -1,0 +1,13 @@
+Difference between Document and Window Object?
+Document object:
+* Document object is the root Html documents its like a tree strucre. this first element is called parrent and sub elements is called child.
+* Document Objects represents in web pages
+* document object is a standard for object and programing interface
+* Document objects methods action perform in html elements
+
+*
+Window Object:
+* all Javascript objects, functions, variable automaticly member of the window object
+* window objects is asigned in window screen size, height, width(This is used in brower window)
+* Window objects used in multiple methods in Navigator, browse location, and browse History and popup allert,and cache cookies
+* the window objects represents the browser window
